@@ -1,0 +1,113 @@
+Category: FRED > Categories > Money, Banking, & Finance > Financial Indicators > Stock Market Indexes
+Link: https://fred.stlouisfed.org/categories/32255
+README File Created: 2017-05-13
+FRED (Federal Reserve Economic Data)
+Economic Research Division
+Federal Reserve Bank of St. Louis
+
+Series files in the data directory sorted by title:
+
+File                                    ;Title; Units; Frequency; Seasonal Adjustment; Last Updated
+DJCA.txt                                ;Dow Jones Composite Average©; Index; D; NSA; 2017-05-12
+DJIA.txt                                ;Dow Jones Industrial Average©; Index; D; NSA; 2017-05-12
+DJTA.txt                                ;Dow Jones Transportation Average©; Index; D; NSA; 2017-05-12
+DJUA.txt                                ;Dow Jones Utility Average©; Index; D; NSA; 2017-05-12
+NASDAQ100.txt                           ;NASDAQ 100 Index©; Index; D; NSA; 2017-05-12
+NASDAQCOM.txt                           ;NASDAQ Composite Index©; Index Feb 5, 1971=100; D; NSA; 2017-05-12
+RU1000GPR.txt                           ;Russell 1000® Growth Price Index©; Index; D; NSA; 2017-05-12
+RU1000GTR.txt                           ;Russell 1000® Growth Total Market Index©; Index; D; NSA; 2017-05-12
+RU1000PR.txt                            ;Russell 1000® Price Index©; Index; D; NSA; 2017-05-12
+RU1000TR.txt                            ;Russell 1000® Total Market Index©; Index; D; NSA; 2017-05-12
+RU1000VPR.txt                           ;Russell 1000® Value Price Index©; Index; D; NSA; 2017-05-12
+RU1000VTR.txt                           ;Russell 1000® Value Total Market Index©; Index; D; NSA; 2017-05-12
+RU2000GPR.txt                           ;Russell 2000® Growth Price Index©; Index; D; NSA; 2017-05-12
+RU2000GTR.txt                           ;Russell 2000® Growth Total Market Index©; Index; D; NSA; 2017-05-12
+RU2000PR.txt                            ;Russell 2000® Price Index©; Index; D; NSA; 2017-05-12
+RU2000TR.txt                            ;Russell 2000® Total Market Index©; Index; D; NSA; 2017-05-12
+RU2000VPR.txt                           ;Russell 2000® Value Price Index©; Index; D; NSA; 2017-05-12
+RU2000VTR.txt                           ;Russell 2000® Value Total Market Index©; Index; D; NSA; 2017-05-12
+R2500GRPR.txt                           ;Russell 2500 Growth Price Index©; Index; D; NSA; 2017-05-12
+R2500GRTR.txt                           ;Russell 2500 Growth Total Market Index©; Index; D; NSA; 2017-05-12
+RU2500PR.txt                            ;Russell 2500 Price Index©; Index; D; NSA; 2017-05-12
+RU2500TR.txt                            ;Russell 2500 Total Market Index©; Index; D; NSA; 2017-05-12
+R2500VLPR.txt                           ;Russell 2500 Value Price Index©; Index; D; NSA; 2017-05-12
+R2500VLTR.txt                           ;Russell 2500 Value Total Market Index©; Index; D; NSA; 2017-05-12
+RU3000GPR.txt                           ;Russell 3000® Growth Price Index©; Index; D; NSA; 2017-05-12
+RU3000GTR.txt                           ;Russell 3000® Growth Total Market Index©; Index; D; NSA; 2017-05-12
+RU3000PR.txt                            ;Russell 3000® Price Index©; Index; D; NSA; 2017-05-12
+RU3000TR.txt                            ;Russell 3000® Total Market Index©; Index; D; NSA; 2017-05-12
+RU3000VPR.txt                           ;Russell 3000® Value Price Index©; Index; D; NSA; 2017-05-12
+RU3000VTR.txt                           ;Russell 3000® Value Total Market Index©; Index; D; NSA; 2017-05-12
+RMIDGRPR.txt                            ;Russell Midcap® Growth Price Index©; Index; D; NSA; 2017-05-12
+RMIDGRTR.txt                            ;Russell Midcap® Growth Total Market Index©; Index; D; NSA; 2017-05-12
+RUMIDCAPPR.txt                          ;Russell Midcap® Price Index©; Index; D; NSA; 2017-05-12
+RUMIDCAPTR.txt                          ;Russell Midcap® Total Market Index©; Index; D; NSA; 2017-05-12
+RMIDVLPR.txt                            ;Russell Midcap® Value Price Index©; Index; D; NSA; 2017-05-12
+RMIDVLTR.txt                            ;Russell Midcap® Value Total Market Index©; Index; D; NSA; 2017-05-12
+RTOP200GPR.txt                          ;Russell Top 200® Growth Price Index©; Index; D; NSA; 2017-05-12
+RTOP200GTR.txt                          ;Russell Top 200® Growth Total Market Index©; Index; D; NSA; 2017-05-12
+RUTOP200PR.txt                          ;Russell Top 200® Price Index©; Index; D; NSA; 2017-05-12
+RUTOP200TR.txt                          ;Russell Top 200® Total Market Index©; Index; D; NSA; 2017-05-12
+RTOP200VPR.txt                          ;Russell Top 200® Value Price Index©; Index; D; NSA; 2017-05-12
+RTOP200VTR.txt                          ;Russell Top 200® Value Total Market Index©; Index; D; NSA; 2017-05-12
+SP500.txt                               ;S&P 500©; Index; D; NSA; 2017-05-12
+WILL2500PRGR.txt                        ;Wilshire 2500 Growth Price Index ©; Index; D; NSA; 2017-05-12
+WILL2500INDGR.txt                       ;Wilshire 2500 Growth Total Market Index ©; Index; D; NSA; 2017-05-12
+WILL2500PR.txt                          ;Wilshire 2500 Price Index©; Index; D; NSA; 2017-05-12
+WILL2500IND.txt                         ;Wilshire 2500 Total Market Index©; Index; D; NSA; 2017-05-12
+WILL2500PRVAL.txt                       ;Wilshire 2500 Value Price Index ©; Index; D; NSA; 2017-05-12
+WILL2500INDVAL.txt                      ;Wilshire 2500 Value Total Market Index ©; Index; D; NSA; 2017-05-12
+WILL4500PR.txt                          ;Wilshire 4500 Price Index©; Index; D; NSA; 2017-05-12
+WILL4500IND.txt                         ;Wilshire 4500 Total Market Index©; Index; D; NSA; 2017-05-12
+WILL5000PRFC.txt                        ;Wilshire 5000 Full Cap Price Index©; Index; D; NSA; 2017-05-12
+WILL5000PR.txt                          ;Wilshire 5000 Price Index©; Index; D; NSA; 2017-05-12
+WILL5000INDFC.txt                       ;Wilshire 5000 Total Market Full Cap Index©; Index; D; NSA; 2017-05-12
+WILL5000IND.txt                         ;Wilshire 5000 Total Market Index©; Index; D; NSA; 2017-05-12
+WILLWWW.txt                             ;Wilshire Internet Total Market Index (DISCONTINUED)©; Index; D; NSA; 2014-12-16
+WILLSMLCAP250PR.txt                     ;Wilshire Small Cap 250 Price Index (DISCONTINUED)©; Index; D; NSA; 2014-12-16
+WILLSMLCAP250.txt                       ;Wilshire Small Cap 250 Total Market Index (DISCONTINUED)©; Index; D; NSA; 2014-12-16
+WILLLRGCAPGRPR.txt                      ;Wilshire US Large-Cap Growth Price Index©; Index; D; NSA; 2017-05-12
+WILLLRGCAPGR.txt                        ;Wilshire US Large-Cap Growth Total Market Index©; Index; D; NSA; 2017-05-12
+WILLLRGCAPPR.txt                        ;Wilshire US Large-Cap Price Index©; Index; D; NSA; 2017-05-12
+WILLLRGCAP.txt                          ;Wilshire US Large-Cap Total Market Index©; Index; D; NSA; 2017-05-12
+WILLLRGCAPVALPR.txt                     ;Wilshire US Large-Cap Value Price Index©; Index; D; NSA; 2017-05-12
+WILLLRGCAPVAL.txt                       ;Wilshire US Large-Cap Value Total Market Index©; Index; D; NSA; 2017-05-12
+WILLMICROCAPPR.txt                      ;Wilshire US Micro-Cap Price Index©; Index; D; NSA; 2017-05-12
+WILLMICROCAP.txt                        ;Wilshire US Micro-Cap Total Market Index©; Index; D; NSA; 2017-05-12
+WILLMIDCAPGRPR.txt                      ;Wilshire US Mid-Cap Growth Price Index©; Index; D; NSA; 2017-05-12
+WILLMIDCAPGR.txt                        ;Wilshire US Mid-Cap Growth Total Market Index©; Index; D; NSA; 2017-05-12
+WILLMIDCAPPR.txt                        ;Wilshire US Mid-Cap Price Index©; Index; D; NSA; 2017-05-12
+WILLMIDCAP.txt                          ;Wilshire US Mid-Cap Total Market Index©; Index; D; NSA; 2017-05-12
+WILLMIDCAPVALPR.txt                     ;Wilshire US Mid-Cap Value Price Index©; Index; D; NSA; 2017-05-12
+WILLMIDCAPVAL.txt                       ;Wilshire US Mid-Cap Value Total Market Index©; Index; D; NSA; 2017-05-12
+WILLREITPR.txt                          ;Wilshire US Real Estate Investment Trust Price Index (Wilshire US REIT)©; Index; D; NSA; 2017-05-12
+WILLREITIND.txt                         ;Wilshire US Real Estate Investment Trust Total Market Index (Wilshire US REIT)©; Index; D; NSA; 2017-05-12
+WILLRESIPR.txt                          ;Wilshire US Real Estate Securities Price Index (Wilshire US RESI)©; Index; D; NSA; 2017-05-12
+WILLRESIND.txt                          ;Wilshire US Real Estate Securities Total Market Index (Wilshire US RESI)©; Index; D; NSA; 2017-05-12
+WILLSMLCAPGRPR.txt                      ;Wilshire US Small-Cap Growth Price Index©; Index; D; NSA; 2017-05-12
+WILLSMLCAPGR.txt                        ;Wilshire US Small-Cap Growth Total Market Index©; Index; D; NSA; 2017-05-12
+WILLSMLCAPPR.txt                        ;Wilshire US Small-Cap Price Index©; Index; D; NSA; 2017-05-12
+WILLSMLCAP.txt                          ;Wilshire US Small-Cap Total Market Index©; Index; D; NSA; 2017-05-12
+WILLSMLCAPVALPR.txt                     ;Wilshire US Small-Cap Value Price Index©; Index; D; NSA; 2017-05-12
+WILLSMLCAPVAL.txt                       ;Wilshire US Small-Cap Value Total Market Index©; Index; D; NSA; 2017-05-12
+
+Abbreviations:
+
+Frequency
+   A = Annual
+   SA = Semiannual
+   Q = Quarterly
+   M = Monthly
+   BW = Biweekly
+   W = Weekly
+   D = Daily
+Seasonal Adjustment
+   SA = Seasonally Adjusted
+   NSA = Not Seasonally Adjusted
+   SAAR = Seasonally Adjusted Annual Rate
+   SSA = Smoothed Seasonally Adjusted
+   NA = Not Applicable
+
+Directories are limited to 1000 files or less.
+Subdirectories are created recursively for each character in a series ID until 1000 or fewer series IDs match a substring.
+Most zip files contain less than 1000 files and do not contain additional subdirectories.
